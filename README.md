@@ -3,4 +3,8 @@
 ## Personal Website utilizing GitHub Pages
 
 - [x] Initial Upload.
-- [ ] Publish additional pages.
+- [ ] Add full js functionality.
+- [ ] Add gallery page.
+- [ ] Add creative works page
+- [ ] Add technical works page
+
