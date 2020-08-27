@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: url("../imgs/DSC00306-2.jpg") no-repeat center top fixed;
+	background-size: cover;
+	margin: 0px;
+}
+
+.welcome{
+	margin-left: 5vw;
+	margin-top: 5vh;
+	font-family: freight-neo-pro, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+	font-size: 5vh;
+}
+
+h1{
+	display: inline;
+}
+
+#hi{
+	font-family: allura;
+}
+
+.welcome p{
+	font-size: 4vh;
+	font-family: roboto-mono, monospace;
+	font-weight: 100;
+	font-style:normal;
+}
+
+
+.learn{
+	border: 2px solid white;
+	background-color: transparent;
+	color: white;
+	padding: 14px;
+	font-size: 3vh;
+	cursor: pointer;
+	box-shadow: 2px 2px 5px;
+	font-family: freight-neo-pro, sans-serif;
+	font-weight: 700;
+}
+
+.learn:hover{
+	background-color: white;
+	color: #7089B2;
+}
+
+.icons{
+	margin-left: 5vw;
+	margin-top: 5vh;
+	color: white;
+}
+
+.icon{
+	padding-top: 30px;
+	background: transparent;
+	border: none;
+	color: white;
+	padding-left: 0%;
+	font-size: 5vh;
+	outline: none;
+	cursor: pointer;
+}
+
+.icon:hover{
+	font-size: 6vh;
+}
+
+.btn{
+	padding: 8px;
+	width: 150px;
+	text-align:center;
+	box-shadow: 0 0 0 1px insert rgba(white, 0.3);
+	margin: 10px 0;
+	border: 1px solid white;
+	background: transparent;
+	color: white;
+	font-family: gotham;
+	font-size: 20px;
+}
+
+.btn:hover{
+	background: #68B891;
+}
+
+#footer {
+   position:fixed;
+   color: white;
+   left:0px;
+   bottom:0px;
+   height:10px;
+   width:100%;
+	text-align: right;
+   background:none;
+	font-size: 1vh;
+}
+
+
+
