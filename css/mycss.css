@@ -88,16 +88,29 @@ h1{
 	background: #68B891;
 }
 
-#footer {
+.footer {
    position:fixed;
    color: white;
    left:0px;
    bottom:0px;
-   height:10px;
+   height:30px;
    width:100%;
 	text-align: right;
    background:none;
 	font-size: 1vh;
+}
+
+.footer h4{
+	display: inline-block;
+	text-align: right;
+}
+
+.photographer{
+	background-color: transparent;
+	border: none;
+	color: white;
+	padding-top: 17px;
+	cursor: pointer;
 }
 
 
